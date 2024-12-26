@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Seth Doty</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Seth Doty</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Apr 2023 15:22:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Examining Organizational Cybersecurity User Experience.</title>
+      <link>http://localhost:1313/posts/examining-organizational-cybersecurity-user-experience/</link>
+      <pubDate>Sun, 16 Apr 2023 15:22:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/examining-organizational-cybersecurity-user-experience/</guid>
+      <description>&lt;h1 id=&#34;examining-organizational-cybersecurity-user-experience&#34;&gt;Examining Organizational Cybersecurity User Experience.&lt;/h1&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;In “Things that make us Smart: Defending Human Attributes in the Age of the Machine” (Norman, 1993), renowned usability expert Don Norman examines the interactions between humans and technology. He argues that technology needs to focus on developing models that fit the minds of humans and not try to focus on designs that force us to conform to the machine’s ideals. This book was written nearly thirty years ago, but its issues still apply today. This paper will examine this issue within the scope of modern business, identifying common issues faced by users. It will then explore how security professionals can affect the secure user experience.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Things that make us Smart Book Review</title>
+      <link>http://localhost:1313/posts/things-that-make-us-smart-book-review/</link>
+      <pubDate>Thu, 16 Feb 2023 15:22:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/things-that-make-us-smart-book-review/</guid>
+      <description>&lt;p&gt;Don Norman’s career has been primarily focused on how humans understand the world around them. His career has given him the opportunity to influence modern computing in multiple ways, whether it was his time as a Vice President of User Experience at Apple Computers, a Benjamin Franklin medal in Computer and Cognitive Science, or his many lectures to students and organizations around the world. This prestige is what led to him being named “One of the World’s Most Influential Designers” by Business Week in 2010 (BusinessWeek Names Don Norman One of World&amp;rsquo;s Most Influential Designers, 2010).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

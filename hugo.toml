@@ -1,0 +1,6 @@
+baseURL = 'https://sethdoty.dev/'
+languageCode = 'en-us'
+title = 'Seth Doty'
+theme = 'ananke'
+[markup.goldmark.renderer]
+  unsafe = true
