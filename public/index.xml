@@ -22,5 +22,12 @@
       <guid>http://localhost:1313/posts/things-that-make-us-smart-book-review/</guid>
       <description>&lt;p&gt;Don Norman’s career has been primarily focused on how humans understand the world around them. His career has given him the opportunity to influence modern computing in multiple ways, whether it was his time as a Vice President of User Experience at Apple Computers, a Benjamin Franklin medal in Computer and Cognitive Science, or his many lectures to students and organizations around the world. This prestige is what led to him being named “One of the World’s Most Influential Designers” by Business Week in 2010 (BusinessWeek Names Don Norman One of World&amp;rsquo;s Most Influential Designers, 2010).&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description>&lt;p&gt;Research Paper Listing Coming Soon&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
