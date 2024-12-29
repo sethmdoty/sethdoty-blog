@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abouts on Seth Doty</title>
+    <title>About Seth Doty on Seth Doty</title>
     <link>http://localhost:1313/about/</link>
-    <description>Recent content in Abouts on Seth Doty</description>
+    <description>Recent content in About Seth Doty on Seth Doty</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Dec 2024 16:54:59 -0600</lastBuildDate>
+    <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Seth Doty</title>
-      <link>http://localhost:1313/about/about/</link>
-      <pubDate>Thu, 26 Dec 2024 16:54:59 -0600</pubDate>
-      <guid>http://localhost:1313/about/about/</guid>
-      <description>&lt;h2 id=&#34;profile&#34;&gt;Profile&lt;/h2&gt;&#xA;&lt;p&gt;Experienced Leader with 20+ years in cybersecurity, engineering, risk management, auditing, and compliance. I am knowledgeable across several technical domains, such as AWS, GCP, Azure, firewalls, encryption, and authentication protocols. I have a proven track record of successful security projects and a focused background in creating and implementing strategies for securing corporate assets.&lt;/p&gt;&#xA;&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Doctorate CyberSecurity &lt;br&gt;&#xA;Capitol Technology University - 2025&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;MS Data Analytics &lt;br&gt;&#xA;Western Governors University - 2022&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>
