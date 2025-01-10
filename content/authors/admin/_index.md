@@ -100,7 +100,84 @@ work:
       - Design and implement custom machine learning pipelines.
       - Implement automation to ensure secure configurations for cloud infrastructure, implement custom security monitoring software, create custom web-based reporting software, and create/manage various tools to automate security control remediation.
       - Provided project plans and estimates for both sales leads and existing customers
-
+  - position: Security Team Lead
+    company_name: Northrop Grumman
+    company_logo: ''
+    date_start: 2017-03-01
+    date_end: 2019-02-01
+    summary: |
+      Responsibilities include:
+      - Lead vulnerability management team
+      - Lead incident response team
+      - Collaborate with Government Clients on cybersecurity inititives
+      - Compile and audit cybersecurity STIGs
+  - position: Security Team Lead
+    company_name: Tech Systems - Contract to Northrop Grumman
+    company_logo: ''
+    date_start: 2016-09-01
+    date_end: 2017-03-01
+    summary: |
+      Responsibilities include:
+      - Lead vulnerability management team
+      - Lead incident response team
+      - Collaborate with Government Clients on cybersecurity inititives
+      - Compile and audit cybersecurity STIGs
+  - position: Senior Systems Engineer
+    company_name: Hayneedle
+    company_logo: ''
+    date_start: 2015-06-01
+    date_end: 2016-09-01
+    summary: |
+      Responsibilities include:
+      - Develop CI/CD Pipelines
+      - Engineer site search infrastructure, utilizing tools like Solr and Zookeeper
+      - Manage projects
+      - Deploy and manage web fleet using VMware
+  - position: Network Engineer - Team lead
+    company_name: Stillwater Insurance Group
+    company_logo: ''
+    date_start: 2012-03-01
+    date_end: 2015-06-01
+    summary: |
+      Responsibilities include:
+      - Manage enterprise network
+      - Build CI/CD Pipelines
+      - Optimize infrastructure deployments
+      - Manage System Administration and IT teams
+      - Perform internal penetration tests
+      - Design Incident Response processes
+  - position: IT Analyst
+    company_name: State of Nebraska
+    company_logo: ''
+    date_start: 2010-06-01
+    date_end: 2012-03-01
+    summary: |
+      Responsibilities include:
+      - Manage and secure enterprise wireless network
+      - Manage enterprise firewalls and load balancers
+      - Review Qualys security scans
+      - Perform internal penetration tests
+  - position: IT Analyst
+    company_name: Nebraska State Historical Society
+    company_logo: ''
+    date_start: 2006-12-01
+    date_end: 2010-06-01
+    summary: |
+      Responsibilities include:
+      - Manage and secure enterprise wireless network
+      - Manage enterprise firewalls and load balancers
+      - Review Qualys security scans
+      - Perform internal penetration tests
+  - position: IT Analyst
+    company_name: Nebraska Book Company
+    company_logo: ''
+    date_start: 2005-05-01
+    date_end: 2006-12-01
+    summary: |
+      Responsibilities include:
+      - Travel to customer sites across the US and Canada
+      - Install and Configure point of sale and inventory management solutions
+      - Optimize and troubleshoot infrastructure issues
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
